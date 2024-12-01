@@ -63,20 +63,20 @@ This folder will be the server for saving and loading data that 2 WEB saves.
 A confusion matrix is a performance measurement tool for machine learning classification tasks, particularly useful in evaluating the accuracy of a model. It compares the predicted labels from a classification model with the true labels from the data. It is typically represented as a square matrix.
 
 :pushpin:**Formula**
-[!Confusion_matrix](https://github.com/0607bkhanhhoang/241_ML_Project_PPE_Segment/blob/main/images/Formula.png)
+![Confusion_matrix](https://github.com/0607bkhanhhoang/241_ML_Project_PPE_Segment/blob/main/images/Formula.png)
 
 :pushpin:**Results**
-[!Confusion_matrix_2](https://github.com/0607bkhanhhoang/241_ML_Project_PPE_Segment/blob/main/images/confusion_matrix.jpg)
+![Confusion_matrix_2](https://github.com/0607bkhanhhoang/241_ML_Project_PPE_Segment/blob/main/images/confusion_matrix.jpg)
 
 ## Precision Output
 
-[!Precision](https://github.com/0607bkhanhhoang/241_ML_Project_PPE_Segment/blob/main/images/precision.jpg)
+![Precision](https://github.com/0607bkhanhhoang/241_ML_Project_PPE_Segment/blob/main/images/precision.jpg)
 
 ## Test results
 
-[!Add_results](https://github.com/0607bkhanhhoang/241_ML_Project_PPE_Segment/blob/main/images/clothes_1.jpg)
+![Add_results](https://github.com/0607bkhanhhoang/241_ML_Project_PPE_Segment/blob/main/images/clothes_1.jpg)
 
-[!Add_results](https://github.com/0607bkhanhhoang/241_ML_Project_PPE_Segment/blob/main/images/clothes_2.jpg)
+![Add_results](https://github.com/0607bkhanhhoang/241_ML_Project_PPE_Segment/blob/main/images/clothes_2.jpg)
 
 
 
