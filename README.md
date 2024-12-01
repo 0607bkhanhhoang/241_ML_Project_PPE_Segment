@@ -56,8 +56,8 @@ This folder contains images that are design to be frontend of GUI. The web is de
 
 This folder will be the server for saving and loading data that 2 WEB saves. 
 
-:pushpin: **Save from video**: Saving data from video and up to /static/files
-:pushpin: **Check from webcam**: Checking from webcam
+:pushpin: **Save from video**: Saving data from video and up to /static/files.
+:pushpin: **Check from webcam**: Checking from webcam.
 
 # Model Visualization 
 
