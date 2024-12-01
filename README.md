@@ -32,7 +32,7 @@ This web application is designed to perform intelligent and efficient personal p
 Real-time recognition: The device's webcam will be activated to record images and videos. Immediately, the system will analyze the frames and display bounding boxes around the detected PPE objects, providing detailed information about the type of PPE (e.g., helmets, reflective vests, safety shoes).
 Uploaded video processing: Users can upload videos for analysis. The system will process each frame of the video and generate an output video where the PPE objects are marked with bounding boxes and corresponding labels. This allows users to easily check and evaluate the use of PPE during work.
 
-[!Add_results](https://github.com/0607bkhanhhoang/241_ML_Project_PPE_Segment/blob/main/images/clothes_1.jpg)
+![Add_results](https://github.com/0607bkhanhhoang/241_ML_Project_PPE_Segment/blob/main/images/Flow.png)
 
 :pushpin: To run web app appilcation, type
 ```bash
