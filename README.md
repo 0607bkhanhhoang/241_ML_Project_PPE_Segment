@@ -1,5 +1,13 @@
 # 241_ML_Project_PPE_Segment
 
+Hi All, 
+
+I''m Khanh Hoang. This is Machine Learning project on my course on HCMUT 
+
+:pushpin: **Bui Khanh Hoang : 2113392**
+:pushpin: **Nguyen Huu Binh**
+:pushpin: **Bui Dang Khuong Duy**
+
 This project is for segmentation of PPE Detection, in this project, I use Yolov11 with segmentation options, we already have 3 scripts in this project. This model is based on YOLOv11 and is trained on a dataset of 400 images. The dataset is randomly split into a training set (84%), a validation set (12%), and a test set (4%). The training process is conducted on Google Colab using a T4 GPU and runs for 150 epochs.
 
 To run this project, we already use anaconda prompt to create virtual environment for avoiding conflict in installing packages in python. 
